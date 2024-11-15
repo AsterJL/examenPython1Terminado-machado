@@ -1,0 +1,62 @@
+[
+    {
+        "Nombre": "Stairway to Heaven",
+        "Artista": "Led Zeppelin",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Bohemian Rhapsody",
+        "Artista": "Queen",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Hotel California",
+        "Artista": "Eagles",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Imagine",
+        "Artista": "John Lennon",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Like a Rolling Stone",
+        "Artista": "Bob Dylan",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Hey Jude",
+        "Artista": "The Beatles",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Purple Haze",
+        "Artista": "Jimi Hendrix",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Smells Like Teen Spirit",
+        "Artista": "Nirvana",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Wonderwall",
+        "Artista": "Oasis",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Yesterday",
+        "Artista": "The Beatles",
+        "G\u00e9nero": "Rock"
+    },
+    {
+        "Nombre": "Torero",
+        "Artista": "Chayanne",
+        "G\u00e9nero": "Pop Latino"
+    },
+    {
+        "Nombre": "Bad Habbits",
+        "Artista": "Ed Sheeran",
+        "G\u00e9nero": "Pop"
+    }
+]
